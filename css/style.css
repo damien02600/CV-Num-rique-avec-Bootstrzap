@@ -29,3 +29,14 @@
 .about-me{
   background-color: #eff1f3;
 }
+
+hr {
+  width:50%;
+  font-weight: bold;
+}
+.logo-mysql {
+  height: 40px;
+}
+.logo-csharp{
+  height: 40px;
+}
