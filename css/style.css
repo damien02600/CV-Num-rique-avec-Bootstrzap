@@ -40,3 +40,57 @@ hr {
 .logo-csharp{
   height: 40px;
 }
+
+/* COMPETENCE  */
+
+
+.colorLogoHTML{
+  color: #e34c26;
+} 
+
+.colorLogoCSS{
+  color: blue;
+}
+
+.colorLogoBOOTSTRAP{
+  color: purple;
+}
+.colorLogoJAVASCRIPT{
+  color: yellow;
+}
+.colorLogoPHP{
+  color: purple;
+}
+.colorLogoWORDPRESS{
+  color: blue;
+}
+
+
+.contact{
+  background-color: #eff1f3;
+}
+
+.fa-mobile-alt:before{
+  font-size: 50px;
+}
+.fa-envelope-open:before{
+  font-size: 50px;
+} 
+.fa-file-download:before{
+  font-size: 50px;
+}
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
