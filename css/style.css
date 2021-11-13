@@ -1,3 +1,5 @@
+
+
 /* Carousel styling */
 #img-header,
 .img-background {
@@ -26,7 +28,7 @@
 /* ABOUT-ME */
 
 
-.about-me{
+#about-me{
   background-color: #eff1f3;
 }
 
@@ -66,7 +68,7 @@ hr {
 }
 
 
-.contact{
+#contact{
   background-color: #eff1f3;
 }
 
@@ -79,6 +81,7 @@ hr {
 .fa-file-download:before{
   font-size: 50px;
 }
+
 
 
 .bd-placeholder-img {
